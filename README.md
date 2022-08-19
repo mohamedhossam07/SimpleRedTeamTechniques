@@ -1,5 +1,7 @@
 # SimpleRedTeamTechniques
- 
+
+## Notes
+The code in this repo targets windows machines x64, but similar code can be used to target x86 machines by modifying the shellcode and compiliation
 
 ## References
 
